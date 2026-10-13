@@ -23,19 +23,31 @@ I'm building my cybersecurity knowledge through structured training, hands-on la
 ### Completed Modules
 - Introduction to Cybersecurity
 - Network Fundamentals
+- How the Web Works
+- Computer Fundamentals
 
 ### In Progress
-- How the Web Works
+- OS Basics
 
 ### Upcoming Modules
-- Computer Fundamentals
-- OS Basics
+- Software Basics
 - Attacks and Defenses
 
 ##  Practical Learning Log
 
 I document the concepts I learn, commands I practise,
 observations from authorized labs, and lessons learned.
+
+### TryHackMe Room Write-ups
+
+| Room                          | Status      | Notes                                       |
+| ----------------------------- | ----------- | ------------------------------------------- |
+| Introduction to Cybersecurity | Completed   | Add notes link when available               |
+| Network Fundamentals          | Completed   | [Read Notes](notes/network-fundamentals.md) |
+| Computer Fundamentals         | Completed   | Add notes link when available               |
+| How the Web Works             | Completed   | [Read Notes](notes/how-the-web-works.md)    |
+| Operating System Basics       | In Progress | Notes in progress                           |
+
 
 Each entry focuses on:
 - Objective
